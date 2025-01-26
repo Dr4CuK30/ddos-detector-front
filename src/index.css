@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* App.css */
+
+body {
+  background-color: #121212; /* Color de fondo oscuro */
+  color: #ffffff; /* Color de texto claro */
+  font-family: Arial, sans-serif;
+}
